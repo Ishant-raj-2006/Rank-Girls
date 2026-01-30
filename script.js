@@ -59,7 +59,7 @@ const data = [
     {
         rank: 1,
         Roll: "0255CDS015",
-        name: "Muskan Bhari",
+        name: "Muskan Bharti",
         Point: 10,
         linkedin: "https://www.linkedin.com/in/muskan-bharti-b9166a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/muskan-0228"
