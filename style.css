@@ -1,0 +1,148 @@
+/* ===== FOOTER FIX ===== */
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #0f0f23;
+    color: #ffffff;
+}
+
+.page-wrapper {
+    flex: 1;
+}
+
+/* ===== WELCOME SCREEN ===== */
+#welcome-screen {
+    position: fixed;
+    inset: 0;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    text-align: center;
+}
+
+#welcome-screen h1 {
+    font-size: 3em;
+    color: #00d4ff;
+    text-shadow: 0 0 20px rgba(0, 212, 255, 0.8);
+}
+
+#welcome-screen p {
+    font-size: 1.5em;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+#enterBtn {
+    padding: 15px 40px;
+    font-size: 1.5em;
+    background: #00d4ff;
+    color: #0f0f23;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 0 15px rgba(0, 212, 255, 0.6);
+    transition: all 0.3s ease;
+}
+
+#enterBtn:hover {
+    background: #fff;
+    transform: scale(1.1);
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
+}
+
+.emoji {
+    display: inline-block;
+    animation: pop 1s infinite alternate;
+}
+
+@keyframes pop {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.4);
+    }
+}
+
+/* ===== HEADINGS ===== */
+h1,
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 0 15px rgba(0, 212, 255, 1);
+}
+
+/* ===== SEARCH ===== */
+.search-container {
+    text-align: center;
+    margin: 30px 0;
+}
+
+#searchInput {
+    padding: 12px 20px;
+    width: 300px;
+    border-radius: 25px;
+    border: 2px solid #0f3460;
+    background: #16213e;
+    color: #fff;
+    outline: none;
+}
+
+/* ===== TABLE ===== */
+table {
+    width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+    background: #1a1a2e;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th,
+td {
+    padding: 15px;
+    border: 1px solid #0f3460;
+    text-align: center;
+}
+
+th {
+    background: #0f3460;
+    color: #00d4ff;
+}
+
+tr:nth-child(even) {
+    background: #16213e;
+}
+
+a {
+    color: #00d4ff;
+    text-decoration: none;
+}
+
+.disabled-link {
+    color: #888;
+    text-decoration: line-through;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+/* ===== FOOTER ===== */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(135deg, #16213e, #1a1a2e);
+    border-top: 1px solid #0f3460;
+    font-size: 0.9em;
+}
