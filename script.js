@@ -3,7 +3,7 @@ const data = [ {
         rank: 1,
         Roll: "0255CSE022",
         name: "Ikra",
-        Point: 16+4+4,
+        Point: 16+5+5,
         linkedin: "https://www.linkedin.com/in/ikra-choudhary-2757713aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/Ikraera"
     },
