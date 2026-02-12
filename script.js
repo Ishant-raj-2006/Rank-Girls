@@ -73,7 +73,14 @@ const data = [   {
         linkedin: "https://www.linkedin.com/in/uma-bharti-2142923a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/uma1529-design"
     },
-    
+     {
+        rank: 6,
+        Roll: "0255CDS026",
+        name: "Nisha Bharti ",
+        Point: 4+9,
+        linkedin: "",
+        github: "https://github.com/Nisha77-git"
+    },
     {
         rank: 6,
         Roll: "0245CSE031",
@@ -135,14 +142,7 @@ const data = [   {
         linkedin: "https://www.linkedin.com/in/prema-jaiswal-836658296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: ""
     },
-     {
-        rank: 9,
-        Roll: "0255CDS026",
-        name: "Nisha Bharti ",
-        Point: 4,
-        linkedin: "",
-        github: "https://github.com/Nisha77-git"
-    },
+    
    
     
     {
