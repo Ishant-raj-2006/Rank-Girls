@@ -82,7 +82,7 @@ const data = [   {
         github: "https://github.com/Nisha77-git"
     },
     {
-        rank: 6,
+        rank: 7,
         Roll: "0245CSE031",
         name: "Anoop Kumar",
         Point: 10,
@@ -91,7 +91,7 @@ const data = [   {
     },
     
     {
-        rank: 6,
+        rank: 7,
         Roll: "0245CDS043",
         name: "Riya Kumari",
         Point: 10,
@@ -100,7 +100,7 @@ const data = [   {
     },
    
     {
-        rank: 6,
+        rank: 7,
         Roll: "0255CDS025",
         name: "Satyam Kumar",
         Point: 10,
@@ -109,7 +109,7 @@ const data = [   {
     },
    
     {
-        rank: 6,
+        rank: 7,
         Roll: "0255CSE001",
         name: "Harsh Gautam",
         Point: 10,
@@ -118,7 +118,7 @@ const data = [   {
     },
     
      {
-        rank: 7,
+        rank: 8,
         Roll: "0255CSE059",
         name: "Raj Maurya",
         Point: 6,
@@ -127,7 +127,7 @@ const data = [   {
     },
      
     {
-        rank: 8,
+        rank: 9,
         Roll: "0255CSE039",
         name: "Antriksh Arya",
         Point: 5,
@@ -135,7 +135,7 @@ const data = [   {
         github: "https://github.com/antriksharyagrd-a11y"
     },
     {
-        rank: 8,
+        rank: 9,
         Roll: "0255BBA068",
         name: "Prema Jaiswal",
         Point: 5,
