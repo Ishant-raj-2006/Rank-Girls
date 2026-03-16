@@ -105,10 +105,10 @@ const data = [   {
     {
         rank: 8,
         Roll: "0245CSE031",
-        name: "Anoop Kumar",
+        name: "Anushka Shreya",
         Point: 10,
-        linkedin: "https://www.linkedin.com/in/anup-kumar-642562395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/voexenz0"
+        linkedin: "https://www.linkedin.com/in/anushka-shreya-a77093353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/Anushkaashreya25"
     },
     
     {
