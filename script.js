@@ -3,7 +3,7 @@ const data = [   {
         rank: 1,
         Roll: "0245CSE005",
         name: "Shayef Kabir",
-        Point: 20+10,
+        Point: 20+10+20,
         linkedin: "http://www.linkedin.com/in/shayef-kabir-b853b0372",
         github: "https://github.com/shayefkabir2005"
     },
@@ -11,23 +11,31 @@ const data = [   {
         rank: 1,
         Roll: "0255CSE031",
         name: "Anupam Kumari",
-        Point: 20+5+4+1,
+        Point: 50,
         linkedin: "https://www.linkedin.com/in/anupam-kumari-8167aa3a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/anupamguptaji123-droid"
     },   
      {
-        rank: 1,
+        rank: 2,
         Roll: "0255CDS020",
         name: "Nikhil kumar",
-        Point: 20+5+5,
+        Point: 48,
         linkedin: "https://linkedin.com/in/nikhil-kumar08",
         github: "https://github.com/nikhilkumar609"
-    }, 
+    },  
+    {
+        rank: 3,
+        Roll: "0255CSE015",
+        name: "Uma",
+        Point: 43,
+        linkedin: "https://www.linkedin.com/in/uma-bharti-2142923a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/uma1529-design"
+    },
     {
         rank: 1,
         Roll: "0255CDS015",
         name: "Muskan Bharti",
-        Point: 30,
+        Point: 40,
         linkedin: "https://www.linkedin.com/in/muskan-bharti-b9166a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/muskan-0228"
     },
@@ -35,7 +43,7 @@ const data = [   {
         rank: 2,
         Roll: "0255CSE036",
         name: "Priyanka Kumari",
-        Point: 20+9,
+        Point: 40,
         linkedin: "https://www.linkedin.com/in/priyanka-kumari-5354443a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/Priyanka-798"
     },
@@ -43,25 +51,27 @@ const data = [   {
         rank: 3,
         Roll: "0245CYBS019",
         name: "Prince",
-        Point: 20+8,
+        Point: 38,
         linkedin: "https://www.linkedin.com/in/prince-kumar-04b443367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/Prince-3103"
     },
-    {
-        rank: 3,
-        Roll: "0255CSE015",
-        name: "Uma",
-        Point: 19+9,
-        linkedin: "https://www.linkedin.com/in/uma-bharti-2142923a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/uma1529-design"
-    },
+   
      {
         rank: 4,
         Roll: "0255CSE022",
         name: "Ikra",
-        Point: 16+5+5,
+        Point: 36,
         linkedin: "https://www.linkedin.com/in/ikra-choudhary-2757713aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/Ikraera"
+    },
+   
+     {
+        rank: 4,
+        Roll: "0255CDS039",
+        name: "Kanishika vaths",
+        Point: 30,
+        linkedin: "https://www.linkedin.com/in/kanishka-vaths-4ba24138a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/Codercatd"
     },
    
     
@@ -101,6 +111,15 @@ const data = [   {
         github: "https://github.com/voexenz0"
     },
     
+    {
+        rank: 8,
+        Roll: "0245CSE031",
+        name: "Anoop Kumar",
+        Point: 10,
+        linkedin: "https://www.linkedin.com/in/anup-kumar-642562395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/voexenz0"
+    },
+    
    
    
     {
@@ -116,6 +135,14 @@ const data = [   {
         rank: 8,
         Roll: "0255CSE001",
         name: "Harsh Gautam",
+        Point: 10,
+        linkedin: "https://www.linkedin.com/in/harsh-gautam-b340b13a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/harshgautam8"
+    },
+    {
+        rank: 8,
+        Roll: "0255CSE001",
+        name: "Pragya",
         Point: 10,
         linkedin: "https://www.linkedin.com/in/harsh-gautam-b340b13a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/harshgautam8"
