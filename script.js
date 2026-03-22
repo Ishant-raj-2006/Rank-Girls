@@ -104,7 +104,7 @@ const data = [   {
     },
     {
         rank: 8,
-        Roll: "0245CSE031",
+        Roll: "0245CSE029",
         name: "Anushka Shreya",
         Point: 10,
         linkedin: "https://www.linkedin.com/in/anushka-shreya-a77093353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
