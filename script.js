@@ -32,6 +32,14 @@ const data = [   {
         github: "https://github.com/uma1529-design"
     },
     {
+        rank: 5,
+        Roll: "0245DCS088",
+        name: "Kumkum Kumari",
+        Point: 40,
+        linkedin: "https://www.linkedin.com/in/kumkum-kumari-5b254339a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/kumkum639"
+    },
+    {
         rank: 1,
         Roll: "0255CDS015",
         name: "Muskan Bharti",
@@ -73,14 +81,7 @@ const data = [   {
         linkedin: "https://www.linkedin.com/in/kanishka-vaths-4ba24138a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/Codercatd"
     },
-    {
-        rank: 5,
-        Roll: "0245DCS088",
-        name: "Kumkum Kumari",
-        Point: 30,
-        linkedin: "https://www.linkedin.com/in/kumkum-kumari-5b254339a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/kumkum639"
-    },
+    
    
     
     {
