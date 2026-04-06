@@ -7,8 +7,16 @@ const data = [  {
         linkedin: "https://www.linkedin.com/in/anupam-kumari-8167aa3a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/anupamguptaji123-droid"
     },  
-     {
+    {
         rank: 2,
+        Roll: "0255CDS020",
+        name: "Nikhil kumar",
+        Point: 68,
+        linkedin: "https://linkedin.com/in/nikhil-kumar08",
+        github: "https://github.com/nikhilkumar609"
+    }, 
+     {
+        rank: 3,
         Roll: "0245CSE005",
         name: "Shayef Kabir",
         Point: 60,
@@ -16,14 +24,7 @@ const data = [  {
         github: "https://github.com/shayefkabir2005"
     },
      
-     {
-        rank: 3,
-        Roll: "0255CDS020",
-        name: "Nikhil kumar",
-        Point: 58,
-        linkedin: "https://linkedin.com/in/nikhil-kumar08",
-        github: "https://github.com/nikhilkumar609"
-    }, 
+     
       {
         rank: 4,
         Roll: "0255CDS015",
