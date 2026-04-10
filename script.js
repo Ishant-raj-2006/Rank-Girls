@@ -1,6 +1,14 @@
 // Student Data
 const data = [  {
         rank: 1,
+        Roll: "0255CDS020",
+        name: "Nikhil kumar",
+        Point: 78,
+        linkedin: "https://linkedin.com/in/nikhil-kumar08",
+        github: "https://github.com/nikhilkumar609"
+    },
+     {
+        rank: 2,
         Roll: "0255CSE031",
         name: "Anupam Kumari",
         Point: 70,
@@ -8,21 +16,14 @@ const data = [  {
         github: "https://github.com/anupamguptaji123-droid"
     },
     {
-        rank: 1,
+        rank: 2,
         Roll: "0245CSE005",
         name: "Shayef Kabir",
         Point: 70,
         linkedin: "http://www.linkedin.com/in/shayef-kabir-b853b0372",
         github: "https://github.com/shayefkabir2005"
     },  
-    {
-        rank: 2,
-        Roll: "0255CDS020",
-        name: "Nikhil kumar",
-        Point: 68,
-        linkedin: "https://linkedin.com/in/nikhil-kumar08",
-        github: "https://github.com/nikhilkumar609"
-    }, 
+    
      
      
      
