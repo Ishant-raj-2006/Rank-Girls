@@ -23,23 +23,24 @@ const data = [  {
         linkedin: "https://www.linkedin.com/in/anupam-kumari-8167aa3a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/anupamguptaji123-droid"
     },
+     {
+        rank: 4,
+        Roll: "0245DCS088",
+        name: "Kumkum Kumari",
+        Point: 57,
+        linkedin: "https://www.linkedin.com/in/kumkum-kumari-5b254339a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/kumkum639"
+    },
   
       {
-        rank: 4,
+        rank: 5,
         Roll: "0255CDS015",
         name: "Muskan Bharti",
         Point: 50,
         linkedin: "https://www.linkedin.com/in/muskan-bharti-b9166a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/muskan-0228"
     },
-    {
-        rank: 5,
-        Roll: "0245DCS088",
-        name: "Kumkum Kumari",
-        Point: 47,
-        linkedin: "https://www.linkedin.com/in/kumkum-kumari-5b254339a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/kumkum639"
-    },
+   
     {
         rank: 6,
         Roll: "0255CSE015",
