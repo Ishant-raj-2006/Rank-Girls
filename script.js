@@ -1,221 +1,222 @@
 // Student Data
-const data = [  {
-        rank: 1,
-        Roll: "0245CSE005",
-        name: "Shayef Kabir",
-        Point: 80,
-        linkedin: "http://www.linkedin.com/in/shayef-kabir-b853b0372",
-        github: "https://github.com/shayefkabir2005"
-    }, 
-     {
-        rank: 1,
-        Roll: "0255CSE031",
-        name: "Anupam Kumari",
-        Point: 80,
-        linkedin: "https://www.linkedin.com/in/anupam-kumari-8167aa3a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/anupamguptaji123-droid"
-    }, 
-    {
-        rank: 2,
-        Roll: "0255CDS020",
-        name: "Nikhil kumar",
-        Point: 78,
-        linkedin: "https://linkedin.com/in/nikhil-kumar08",
-        github: "https://github.com/nikhilkumar609"
-    },
-    
-     {
-        rank: 3,
-        Roll: "0245DCS088",
-        name: "Kumkum Kumari",
-        Point: 57,
-        linkedin: "https://www.linkedin.com/in/kumkum-kumari-5b254339a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/kumkum639"
-    },
-  
-      {
-        rank: 4,
-        Roll: "0255CDS015",
-        name: "Muskan Bharti",
-        Point: 50,
-        linkedin: "https://www.linkedin.com/in/muskan-bharti-b9166a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/muskan-0228"
-    },
-   
-    {
-        rank: 5,
-        Roll: "0255CSE015",
-        name: "Uma",
-        Point: 43,
-        linkedin: "https://www.linkedin.com/in/uma-bharti-2142923a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/uma1529-design"
-    },
-    
-   
-    {
-        rank: 6,
-        Roll: "0255CSE036",
-        name: "Priyanka Kumari",
-        Point: 40,
-        linkedin: "https://www.linkedin.com/in/priyanka-kumari-5354443a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/Priyanka-798"
-    },
-    {
-        rank: 7,
-        Roll: "0245CYBS019",
-        name: "Prince",
-        Point: 38,
-        linkedin: "https://www.linkedin.com/in/prince-kumar-04b443367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/Prince-3103"
-    },
-   
-     {
-        rank: 8,
-        Roll: "0255CSE022",
-        name: "Ikra",
-        Point: 36,
-        linkedin: "https://www.linkedin.com/in/ikra-choudhary-2757713aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/Ikraera"
-    },
-   
-     {
-        rank: 9,
-        Roll: "0255CDS039",
-        name: "Kanishika vaths",
-        Point: 30,
-        linkedin: "https://www.linkedin.com/in/kanishka-vaths-4ba24138a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/Codercatd"
-    },
-    
-   
-    
-    {
-        rank: 10,
-        Roll: "0255CYBS027",
-        name: "Bhavishya ",
-        Point: 20,
-        linkedin: "https://in.linkedin.com/in/bhavishya-rajput-56a225399",
-        github: "https://github.com/Deon-Wertz"
-    },
-     
- 
-     {
-        rank: 11,
-        Roll: "0245CDS043",
-        name: "Riya Kumari",
-        Point: 15,
-        linkedin: "https://www.linkedin.com/in/riya-singh-703142353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/riyasingh41996-ctrl"
-    },
-   
-     {
-        rank: 12,
-        Roll: "0255CDS026",
-        name: "Nisha Bharti ",
-        Point: 4+9,
-        linkedin: "",
-        github: "https://github.com/Nisha77-git"
-    },
-    {
-        rank: 13,
-        Roll: "0245CSE029",
-        name: "Anushka Shreya",
-        Point: 10,
-        linkedin: "https://www.linkedin.com/in/anushka-shreya-a77093353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/Anushkaashreya25"
-    },
-    
-    
-    {
-        rank: 13,
-        Roll: "0245CSE031",
-        name: "Anoop Kumar",
-        Point: 10,
-        linkedin: "https://www.linkedin.com/in/anup-kumar-642562395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/voexenz0"
-    },
-    
-   
-   
-    {
-        rank: 13,
-        Roll: "0255CDS025",
-        name: "Satyam Kumar",
-        Point: 10,
-        linkedin: "https://www.linkedin.com/in/satyam-kumar-5b5167384?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-        github: "https://github.com/satyamkmr18"
-    },
-   
-    {
-        rank: 13,
-        Roll: "0255CSE001",
-        name: "Harsh Gautam",
-        Point: 10,
-        linkedin: "https://www.linkedin.com/in/harsh-gautam-b340b13a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/harshgautam8"
-    },
-    {
-        rank: 13,
-        Roll: "0255CSE001",
-        name: "Pragya",
-        Point: 10,
-        linkedin: "https://www.linkedin.com/in/harsh-gautam-b340b13a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/harshgautam8"
-    },
-    
-     {
-        rank: 14,
-        Roll: "0255CSE059",
-        name: "Raj Maurya",
-        Point: 6,
-        linkedin: "https://www.linkedin.com/in/hacker-undefined-08838b385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/hacker44401"
-    },
-     
-    {
-        rank: 15,
-        Roll: "0255CSE039",
-        name: "Antriksh Arya",
-        Point: 5,
-        linkedin: "",
-        github: "https://github.com/antriksharyagrd-a11y"
-    },
-    {
-        rank: 15,
-        Roll: "0255BBA068",
-        name: "Prema Jaiswal",
-        Point: 5,
-        linkedin: "https://www.linkedin.com/in/prema-jaiswal-836658296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: ""
-    },
-    
-    {
-        rank: 16,
-        Roll: "0255CDS020",
-        name: "Chikki Kumari",
-        Point: 2,
-        linkedin: "",
-        github: ""
-    },
-    
-    {
-        rank: 17,
-        Roll: "0255CDS035",
-        name: "Prachi Kumari",
-        Point: 1,
-        linkedin: "",
-        github: ""
-    },
-    {
-        rank: 17,
-        Roll: "0255EEE004",
-        name: "Tushar Jaiswal",
-        Point: 1,
-        linkedin: "",
-        github: ""
-    },
-   
-   
+const data = [{
+    rank: 1,
+    Roll: "0245CSE005",
+    name: "Shayef Kabir",
+    Point: 80,
+    linkedin: "http://www.linkedin.com/in/shayef-kabir-b853b0372",
+    github: "https://github.com/shayefkabir2005"
+},
+{
+    rank: 1,
+    Roll: "0255CSE031",
+    name: "Anupam Kumari",
+    Point: 80,
+    linkedin: "https://www.linkedin.com/in/anupam-kumari-8167aa3a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/anupamguptaji123-droid"
+},
+{
+    rank: 2,
+    Roll: "0255CDS020",
+    name: "Nikhil kumar",
+    Point: 78,
+    linkedin: "https://linkedin.com/in/nikhil-kumar08",
+    github: "https://github.com/nikhilkumar609"
+},
+
+{
+    rank: 3,
+    Roll: "0245DCS088",
+    name: "Kumkum Kumari",
+    Point: 57,
+    linkedin: "https://www.linkedin.com/in/kumkum-kumari-5b254339a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/kumkum639"
+},
+
+{
+    rank: 4,
+    Roll: "0255CDS015",
+    name: "Muskan Bharti",
+    Point: 50,
+    linkedin: "https://www.linkedin.com/in/muskan-bharti-b9166a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/muskan-0228"
+},
+{
+    rank: 5,
+    Roll: "0255CSE036",
+    name: "Priyanka Kumari",
+    Point: 50,
+    linkedin: "https://www.linkedin.com/in/priyanka-kumari-5354443a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/Priyanka-798"
+},
+
+{
+    rank: 6,
+    Roll: "0255CSE015",
+    name: "Uma",
+    Point: 43,
+    linkedin: "https://www.linkedin.com/in/uma-bharti-2142923a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/uma1529-design"
+},
+
+
+
+{
+    rank: 7,
+    Roll: "0245CYBS019",
+    name: "Prince",
+    Point: 38,
+    linkedin: "https://www.linkedin.com/in/prince-kumar-04b443367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/Prince-3103"
+},
+
+{
+    rank: 8,
+    Roll: "0255CSE022",
+    name: "Ikra",
+    Point: 36,
+    linkedin: "https://www.linkedin.com/in/ikra-choudhary-2757713aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/Ikraera"
+},
+
+{
+    rank: 9,
+    Roll: "0255CDS039",
+    name: "Kanishika vaths",
+    Point: 30,
+    linkedin: "https://www.linkedin.com/in/kanishka-vaths-4ba24138a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/Codercatd"
+},
+
+
+
+{
+    rank: 10,
+    Roll: "0255CYBS027",
+    name: "Bhavishya ",
+    Point: 20,
+    linkedin: "https://in.linkedin.com/in/bhavishya-rajput-56a225399",
+    github: "https://github.com/Deon-Wertz"
+},
+
+
+{
+    rank: 11,
+    Roll: "0245CDS043",
+    name: "Riya Kumari",
+    Point: 15,
+    linkedin: "https://www.linkedin.com/in/riya-singh-703142353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/riyasingh41996-ctrl"
+},
+
+{
+    rank: 12,
+    Roll: "0255CDS026",
+    name: "Nisha Bharti ",
+    Point: 4 + 9,
+    linkedin: "",
+    github: "https://github.com/Nisha77-git"
+},
+{
+    rank: 13,
+    Roll: "0245CSE029",
+    name: "Anushka Shreya",
+    Point: 10,
+    linkedin: "https://www.linkedin.com/in/anushka-shreya-a77093353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/Anushkaashreya25"
+},
+
+
+{
+    rank: 13,
+    Roll: "0245CSE031",
+    name: "Anoop Kumar",
+    Point: 10,
+    linkedin: "https://www.linkedin.com/in/anup-kumar-642562395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/voexenz0"
+},
+
+
+
+{
+    rank: 13,
+    Roll: "0255CDS025",
+    name: "Satyam Kumar",
+    Point: 10,
+    linkedin: "https://www.linkedin.com/in/satyam-kumar-5b5167384?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    github: "https://github.com/satyamkmr18"
+},
+
+{
+    rank: 13,
+    Roll: "0255CSE001",
+    name: "Harsh Gautam",
+    Point: 10,
+    linkedin: "https://www.linkedin.com/in/harsh-gautam-b340b13a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/harshgautam8"
+},
+{
+    rank: 13,
+    Roll: "0255CSE001",
+    name: "Pragya",
+    Point: 10,
+    linkedin: "https://www.linkedin.com/in/harsh-gautam-b340b13a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/harshgautam8"
+},
+
+{
+    rank: 14,
+    Roll: "0255CSE059",
+    name: "Raj Maurya",
+    Point: 6,
+    linkedin: "https://www.linkedin.com/in/hacker-undefined-08838b385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: "https://github.com/hacker44401"
+},
+
+{
+    rank: 15,
+    Roll: "0255CSE039",
+    name: "Antriksh Arya",
+    Point: 5,
+    linkedin: "",
+    github: "https://github.com/antriksharyagrd-a11y"
+},
+{
+    rank: 15,
+    Roll: "0255BBA068",
+    name: "Prema Jaiswal",
+    Point: 5,
+    linkedin: "https://www.linkedin.com/in/prema-jaiswal-836658296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    github: ""
+},
+
+{
+    rank: 16,
+    Roll: "0255CDS020",
+    name: "Chikki Kumari",
+    Point: 2,
+    linkedin: "",
+    github: ""
+},
+
+{
+    rank: 17,
+    Roll: "0255CDS035",
+    name: "Prachi Kumari",
+    Point: 1,
+    linkedin: "",
+    github: ""
+},
+{
+    rank: 17,
+    Roll: "0255EEE004",
+    name: "Tushar Jaiswal",
+    Point: 1,
+    linkedin: "",
+    github: ""
+},
+
+
 ];
 
 // Link Validation Helper
