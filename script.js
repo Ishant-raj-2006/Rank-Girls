@@ -1,20 +1,21 @@
 // Student Data
 const data = [{
     rank: 1,
-    Roll: "0245CSE005",
-    name: "Shayef Kabir",
-    Point: 80,
-    linkedin: "http://www.linkedin.com/in/shayef-kabir-b853b0372",
-    github: "https://github.com/shayefkabir2005"
-},
-{
-    rank: 1,
     Roll: "0255CSE031",
     name: "Anupam Kumari",
-    Point: 80,
+    Point: 90,
     linkedin: "https://www.linkedin.com/in/anupam-kumari-8167aa3a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://github.com/anupamguptaji123-droid"
 },
+{
+    rank: 2,
+    Roll: "0245CSE005",
+    name: "Shayef Kabir",
+    Point: 89,
+    linkedin: "http://www.linkedin.com/in/shayef-kabir-b853b0372",
+    github: "https://github.com/shayefkabir2005"
+},
+
 {
     rank: 2,
     Roll: "0255CDS020",
@@ -28,7 +29,7 @@ const data = [{
     rank: 3,
     Roll: "0245DCS088",
     name: "Kumkum Kumari",
-    Point: 57,
+    Point: 67,
     linkedin: "https://www.linkedin.com/in/kumkum-kumari-5b254339a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://github.com/kumkum639"
 },
