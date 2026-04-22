@@ -29,7 +29,7 @@ const data = [{
     rank: 3,
     Roll: "0245DCS088",
     name: "Kumkum Kumari",
-    Point: 67,
+    Point: 74,
     linkedin: "https://www.linkedin.com/in/kumkum-kumari-5b254339a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://github.com/kumkum639"
 },
