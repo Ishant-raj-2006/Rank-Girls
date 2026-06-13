@@ -17,7 +17,7 @@ const data = [{
 },
 
 {
-    rank: 2,
+    rank: 3,
     Roll: "0255CDS020",
     name: "Nikhil kumar",
     Point: 78,
@@ -26,7 +26,7 @@ const data = [{
 },
 
 {
-    rank: 3,
+    rank: 4,
     Roll: "0245DCS088",
     name: "Kumkum Kumari",
     Point: 74,
@@ -35,7 +35,7 @@ const data = [{
 },
 
 {
-    rank: 4,
+    rank: 5,
     Roll: "0255CDS015",
     name: "Muskan Bharti",
     Point: 50,
